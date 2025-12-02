@@ -1,7 +1,6 @@
 ### Oiii, prazer! Eu sou a Fabi 👋
 
-- 🔭 Atualmente desenvolvo como projeto um WebSite para o IFPR-Colombo
-- 🌱 Cursando o 2° semestre de Análise e desenvolvimento de sistemas
+- 📚 Formada em Análise e desenvolvimento de sistemas
 - 📫 fabianetads@gmail.com
 - 😄 Ela/Dela
 
@@ -22,8 +21,3 @@
 </a>
 
 ##
-
-<div>  
-  <a href = "mailto:fabianetads@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/fabiane-muniz-31091617a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
