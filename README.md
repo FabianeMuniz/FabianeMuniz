@@ -1,23 +1,86 @@
-### Oiii, prazer! Eu sou a Fabi 👋
+<h1 align="center">🌟 Olá, eu sou a Fabiane Muniz! 🌟</h1>
 
-- 📚 Formada em Análise e desenvolvimento de sistemas
-- 📫 fabianetads@gmail.com
-- 😄 Ela/Dela
+<p align="center">
+Desenvolvedora Front-end • Estudante de ADS • Apaixonada por tecnologia, interfaces e resolver problemas
+</p>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-  
-  ##
+---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=FabianeMuniz&show_icons=true&theme=radical"
-    media="(prefers-color-scheme: dark)" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianeMuniz&layout=compact&theme=radical" />
-</a>
+## 👩‍💻 Sobre mim
 
-##
+- 📚 Estudante de **Análise e Desenvolvimento de Sistemas**
+- 💻 Foco atual em **desenvolvimento web**, especialmente:
+  - HTML, CSS, JavaScript
+  - PHP
+  - TypeScript
+- 🗃 Experiência com **SQL, MySQL e PostgreSQL**
+- 🧠 Boa base de lógica de programação e construção de CRUDs
+- 🎨 Interesse forte em **criar interfaces funcionais e intuitivas**
+- 🚀 Buscando oportunidade como **Desenvolvedora Front-end Júnior** ou **Full Stack Júnior**
+
+---
+
+## 🚀 Tecnologias que utilizo
+
+### 🖥️ **Front-end**
+- HTML  
+- CSS  
+- JavaScript  
+- TypeScript  
+- Bootstrap  
+- Figma  
+
+### 🧩 **Back-end / Lógica**
+- PHP  
+- Python  
+- Java  
+
+### 🗄️ **Banco de Dados**
+- SQL  
+- MySQL  
+- PostgreSQL  
+
+### 🔧 **Ferramentas**
+- Git & GitHub  
+- Power BI  
+- Excel (PROCV, PROCX)  
+- Postman (requisições e testes de API)
+
+---
+
+## 📌 Projeto em Destaque
+
+### 🔵 **Rotalize — Sistema de Otimização de Rotas**  
+Projeto acadêmico desenvolvido para auxiliar empresas na otimização e organização de rotas.
+
+**Front-end desenvolvido por mim, incluindo:**
+- Login e fluxo de autenticação
+- Páginas de cadastro e gerenciamento
+- Interfaces completas para usuários, veículos e rotas
+- Consumo de API REST (CRUD)
+- Design system criado no Figma
+
+👉 **Repositório:** *(coloque o link quando subir)*  
+👉 **Demonstração em vídeo:** *(adicione quando gravar)*
+
+---
+
+## 🌟 Estatísticas do GitHub
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=dracula"/>
+</p>
+
+*(troque **SEU-USUARIO** pelo seu nome de usuário do GitHub)*
+
+---
+
+## 📬 Onde me encontrar
+
+- ✉️ **E-mail:** fabi.muniz07@gmail.com  
+- 📱 **Telefone:** (13) 98148-2118  
+- 💼 **LinkedIn:** *www.linkedin.com/in/fabianemuniz*
+
+---
+
+<p align="center">💙 Obrigada por visitar meu perfil! 💙</p>
