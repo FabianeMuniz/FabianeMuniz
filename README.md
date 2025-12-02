@@ -65,19 +65,11 @@ Projeto acadêmico desenvolvido para auxiliar empresas na otimização e organiz
 
 ---
 
-## 🌟 Estatísticas do GitHub
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FabianeMuniz&show_icons=true&theme=dracula" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianeMuniz&layout=compact&theme=dracula" />
-</p>
-
----
-
 ## 📬 Onde me encontrar
 
 - ✉️ **E-mail:** fabi.muniz07@gmail.com  
 - 📱 **Telefone:** (13) 98148-2118  
-- 💼 **LinkedIn:** *www.linkedin.com/in/fabianemuniz*
+- 💼 **LinkedIn:** www.linkedin.com/in/fabianemuniz
 
 ---
 
