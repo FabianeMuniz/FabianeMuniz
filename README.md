@@ -71,7 +71,6 @@ Projeto acadêmico desenvolvido para auxiliar empresas na otimização e organiz
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianeMuniz&layout=compact&theme=dracula"/>
 </p>
 
-
 ---
 
 ## 📬 Onde me encontrar
