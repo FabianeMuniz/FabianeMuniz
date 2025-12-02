@@ -67,9 +67,8 @@ Projeto acadêmico desenvolvido para auxiliar empresas na otimização e organiz
 
 ## 🌟 Estatísticas do GitHub
 <p align="center">
-  [<img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianeMuniz&layout=compact&theme=dracula"/>](https://github-readme-stats.vercel.app/api/top-langs/?username=FabianeMuniz&layout=compact&theme=dracula
-)
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FabianeMuniz&show_icons=true&theme=dracula" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianeMuniz&layout=compact&theme=dracula" />
 </p>
 
 ---
